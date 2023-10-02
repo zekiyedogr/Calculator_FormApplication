@@ -1,0 +1,40 @@
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator - Kopya\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator - Kopya\Calculator\bin\Debug\Calculator.exe
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator - Kopya\Calculator\bin\Debug\Calculator.pdb
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator - Kopya\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator - Kopya\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator - Kopya\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator - Kopya\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator - Kopya\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator - Kopya\Calculator\obj\Debug\Calculator.exe
+C:\Users\zekiy\OneDrive\Masaüstü\Calculator - Kopya\Calculator\obj\Debug\Calculator.pdb
+C:\Users\zekiy\OneDrive\Masaüstü\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\zekiy\OneDrive\Masaüstü\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\bin\Debug\Calculator.exe
+C:\Users\zekiy\OneDrive\Masaüstü\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\bin\Debug\Calculator.pdb
+C:\Users\zekiy\OneDrive\Masaüstü\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\zekiy\OneDrive\Masaüstü\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\zekiy\OneDrive\Masaüstü\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\zekiy\OneDrive\Masaüstü\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\zekiy\OneDrive\Masaüstü\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\zekiy\OneDrive\Masaüstü\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\obj\Debug\Calculator.exe
+C:\Users\zekiy\OneDrive\Masaüstü\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\obj\Debug\Calculator.pdb
+C:\Users\DELL\Desktop\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\DELL\Desktop\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\bin\Debug\Calculator.exe
+C:\Users\DELL\Desktop\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\bin\Debug\Calculator.pdb
+C:\Users\DELL\Desktop\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\DELL\Desktop\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\DELL\Desktop\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\obj\Debug\Calculator.exe
+C:\Users\DELL\Desktop\Zekiye Doğru Staj Teknik Mülakat Projesi\Calculator_FormApplication\Calculator\obj\Debug\Calculator.pdb
